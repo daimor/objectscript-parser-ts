@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": true,
+		"noUnusedLocals": false,
+		"noUnusedParameters": true,
+		"noImplicitAny": true,
+		"noImplicitReturns": true,
+		"target": "es6",
+		"module": "commonjs",
+		"moduleResolution": "node",
+		"sourceMap": true,
+		"lib" : [ "esnext" ],
+		"outDir": "out",
+		"allowJs": true
+	},
+	"exclude": [
+		"node_modules"
+  ]
+}
